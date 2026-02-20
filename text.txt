@@ -1,0 +1,3 @@
+first: anual mean day by day will convert 365 he5 each year -> 1 anual file.nc
+second: anual map each country will extract from 1 anual file.nc -> csv file for each country
+finally: anual trend it country will do the trend map
